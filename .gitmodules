@@ -1,0 +1,6 @@
+[submodule "papillote"]
+	path = papillote
+	url = https://github.com/jgwinnup/papillote.git
+[submodule "curriculum_scorer"]
+	path = curriculum_scorer
+	url = https://github.com/KentonMurray/curriculum_scorer.git
